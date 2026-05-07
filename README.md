@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, saya [Dedi Irawan] 👋
 
-<!--
-**DeiraInsight/deiraInsight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Networking enthusiast yang sedang membangun skill
+di bidang network infrastructure dan automation.
 
-Here are some ideas to get you started:
+## Tentang Saya
+- Tertarik di: Network Automation, Server
+- Lokasi: [Dili, Timor-Leste]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-3776AB?style=flat&logo=mikrotik&logoColor=white)
+
+## Hubungi Saya
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username-kamu](https://www.linkedin.com/in/dedi-irawan-0955a6b2/))
