@@ -1,4 +1,4 @@
-# Hi, saya [Nama Lengkap] 👋
+# Hi, saya Dedi Irawan  👋
 
 Networking enthusiast yang fokus membangun fondasi kuat
 di bidang infrastruktur jaringan dan Linux networking.
@@ -25,4 +25,4 @@ di bidang infrastruktur jaringan dan Linux networking.
 ## Hubungi Saya
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedi-irawan-0955a6b2/)
-[![googleearth](https://img.shields.io/badge/Kontaktu-4285F4?style=flat&logo=Kontaktu&logoColor=white)](https://deirainsight.com/kontaktu/)
+[![googleearth](https://img.shields.io/badge/DeiraInsight-4285F4?style=flat&logo=DeiraInsight&logoColor=white)](https://deirainsight.com/kontaktu/)
