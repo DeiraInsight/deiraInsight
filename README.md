@@ -8,8 +8,8 @@ di bidang infrastruktur jaringan dan Linux networking.
 ## Tentang Saya
 
 - Fokus saat ini: Dasar jaringan, TCP/IP, subnetting, Linux networking
-- Sedang membangun: Home lab & dokumentasi jaringan
-- Terbuka untuk: Peluang magang / entry-level networking
+- Sedang membangun: Home lab & dokumentasi jaringan mengunakan fedora
+
 
 ---
 
