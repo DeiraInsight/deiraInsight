@@ -1,4 +1,4 @@
-# Hi, saya Dedi Irawan  👋
+# Hi, saya Dedi Irawan (Deira Fedora)👋
 
 Networking enthusiast yang fokus membangun fondasi kuat
 di bidang infrastruktur jaringan dan Linux networking.
