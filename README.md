@@ -1,6 +1,6 @@
 # Hi, saya Dedi Irawan (Deira Fedora)👋
 
-Networking enthusiast yang fokus membangun fondasi kuat
+Networking enthusiast fokus membangun fondasi kuat
 di bidang infrastruktur jaringan dan Linux networking.
 
 ---
@@ -9,6 +9,7 @@ di bidang infrastruktur jaringan dan Linux networking.
 
 - Fokus saat ini: Dasar jaringan, TCP/IP, subnetting, Linux networking
 - Sedang membangun: Home lab & dokumentasi jaringan mengunakan fedora
+- Tertarik pada : Cloud Computing dan Private Cloud / On-Premise Cloud
 
 
 ---
